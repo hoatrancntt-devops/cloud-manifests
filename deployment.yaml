@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: labacrhoatranlab.azurecr.io/my-app:25
+        image: labacrhoatranlab.azurecr.io/my-app:26
         ports:
         - containerPort: 80
 ---
